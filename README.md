@@ -1,7 +1,7 @@
 # Java
 This repository contains some of my personal java projects that solves different kinds of problem. It contains implementation of some popular DSAs which are as follows:
 1. **Binary Search:** Used to find a number in a sorted arary by reducing the range of search to half, and keep doing until range of search is reduced to size of 1 which is the required number.
-2. <a href="./SelectionSort.java">Selection Sort</a>, Bubble Sort & Insertion Sort
+2. <a href="./SelectionSort.java">Selection Sort</a>, <a href="./BubbleSort.java">Bubble Sort</a> & Insertion Sort
 3. Quicksort & MergeSort
 4. Huffman coding
 5. Breadth First Search
