@@ -2,8 +2,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-//Source: https://www.geeksforgeeks.org/selection-sort/
-//Complexity Analysis = O(N)*O(N)
+/*Learning Source: https://www.geeksforgeeks.org/selection-sort/
+*Complexity Analysis = O(N)*O(N)
+*/
 public class SelectionSort {
 
 	public static void main(String[] args) {
